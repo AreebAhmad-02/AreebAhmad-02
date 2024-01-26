@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,7 +42,7 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🔭 I’m currently learning as well as working on **AWS, React, Nodejs, MongoDB, Python, Machine Learning**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to put some beast application to production level.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Docker, Kubernetes**
 
