@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--Intro start-->
 - 🔭 I’m currently learning as well as working on **AWS, MERN Stack and Machine Learning**
 
-- 🌱 I’m currently learning **to put some beast application to production level.**
+- 🌱 I’m excited **to put some beast application to production level.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Docker, Kubernetes**
 
