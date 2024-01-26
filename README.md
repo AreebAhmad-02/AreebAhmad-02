@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Is programming a confusion or part of it? Anyways I am software Engineer by Degree and aspiring ?</h2></summary>
+    <summary><h2 style="display: inline-block">Is programming a confusion or part of it? Anyways I am Software Engineer by Degree and aspiring ?</h2></summary>
   </ul>
 </div>
 
