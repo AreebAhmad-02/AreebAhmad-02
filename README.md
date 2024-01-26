@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AreebAhmad-02/AreebAhmad-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,7 +53,7 @@ Here are some ideas to get you started:
 <!--Intro end-->
 
 
-
+<!---
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -76,7 +74,7 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <!--- stats (end) -->
-
+-->
 
 </p>        
 <!--- stats (end) -->
