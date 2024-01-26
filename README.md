@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 <!--Intro start-->
-- 🔭 I’m currently learning as well as working on **AWS, React, Nodejs, MongoDB, Python, Machine Learning**
+- 🔭 I’m currently learning as well as working on **AWS, MERN Stack and Machine Learning**
 
 - 🌱 I’m currently learning **to put some beast application to production level.**
 
